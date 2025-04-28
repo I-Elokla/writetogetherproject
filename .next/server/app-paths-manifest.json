@@ -1,8 +1,8 @@
 {
+  "/my-documents/page": "app/my-documents/page.js",
   "/page": "app/page.js",
   "/api/documents/route": "app/api/documents/route.js",
-  "/my-documents/page": "app/my-documents/page.js",
-  "/editor/page": "app/editor/page.js",
   "/api/liveblocks-auth/route": "app/api/liveblocks-auth/route.js",
+  "/editor/page": "app/editor/page.js",
   "/api/language/route": "app/api/language/route.js"
 }

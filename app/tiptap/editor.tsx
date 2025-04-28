@@ -46,9 +46,9 @@ export default function TiptapEditor() {
     },
     extensions: [
       StarterKit.configure({ history: false }),
-      TextStyle.configure({ types: ["textStyle"] }),
-      Color.configure({ types: ["textStyle"] }),
-      FontSize.configure({ types: ["textStyle"] }),
+      TextStyle,
+      Color,
+      FontSize,
       liveblocks,
     ],
   });
