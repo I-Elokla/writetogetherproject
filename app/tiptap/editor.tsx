@@ -103,7 +103,7 @@ export default function TiptapEditor() {
               <DropdownMenuItem
                 key={lvl}
                 onClick={() =>
-                  editor.chain().focus().toggleHeading({ level: lvl }).run()
+                  editor.chain().focus().toggleHeading({ level: lvl as 1 | 2 | 3 }).run()
                 }
               >
                 {lvl === 1 && <HeadingOneIcon className="mr-2 h-4 w-4" />}
