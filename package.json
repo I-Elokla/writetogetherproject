@@ -24,7 +24,6 @@
     "@tiptap/extension-collaboration": "^2.11.7",
     "@tiptap/extension-collaboration-cursor": "^2.11.7",
     "@tiptap/extension-color": "^2.11.7",
-    "@tiptap/extension-font-size": "^3.0.0-next.3",
     "@tiptap/extension-text-style": "^2.11.7",
     "@tiptap/pm": "^2.6.6",
     "@tiptap/react": "^2.6.6",
@@ -43,6 +42,8 @@
     "react-dom": "^18.2.0",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7",
+    "tiptap-extension-font-size": "^1.2.0",
+    "tiptap-fontsize-extension": "^1.2.1",
     "typescript": "^5.2.2",
     "y-protocols": "^1.0.6",
     "yjs": "^13.6.26"

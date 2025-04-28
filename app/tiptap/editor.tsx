@@ -14,7 +14,7 @@ import { EditorContent, useEditor } from "@tiptap/react";
 import StarterKit from "@tiptap/starter-kit";
 import TextStyle from "@tiptap/extension-text-style";
 import Color from "@tiptap/extension-color";
-import FontSize from "@tiptap/extension-font-size";
+import FontSize from "tiptap-extension-font-size";
 import BlockQuoteIcon from "./icons/blockquote-icon";
 import BoldIcon from "./icons/bold-icon";
 import HeadingOneIcon from "./icons/heading-one-icon";
